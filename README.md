@@ -4,6 +4,8 @@ Dies ist das Repository zu allen Szenarien des [Offenheit im Blickwinkel von Cod
 
 Donnerstag, 18.09.2025, 09:00 - 12:30
 
+[Link zur Orga vom AK OSS](https://ak-oss.gi.de/veranstaltung/information/offenheit-im-blickwinkel-von-code-bis-forschung-eine-gemeinsame-debatte)
+
 ## Beschreibung
 
 Offener Code, Daten, Quellen und Forschung - sollten Artefakte immer offen sein oder gibt es auch Gründe dafür diese nicht zu veröffentlichen?
