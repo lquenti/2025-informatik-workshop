@@ -1,6 +1,6 @@
-# Offenheit im Blickwinkel von Code bis Forschung – Eine Gemeinsame Debatte (INFORMATIK 2025)
+# Offenheit im Blickwinkel von Code bis Forschung - Eine Gemeinsame Debatte (INFORMATIK 2025)
 
-Dies ist das Repository zu allen Szenarien des [Offenheit im Blickwinkel von Code bis Forschung – Eine Gemeinsame Debatte](https://informatik2025.gi.de/workshops_a-z.html) Rollenspiels zur [INFORMATIK 2025](https://informatik2025.gi.de/) in Potsdam.
+Dies ist das Repository zu allen Szenarien des [Offenheit im Blickwinkel von Code bis Forschung - Eine Gemeinsame Debatte](https://informatik2025.gi.de/workshops_a-z.html) Rollenspiels zur [INFORMATIK 2025](https://informatik2025.gi.de/) in Potsdam.
 
 Donnerstag, 18.09.2025, 09:00 - 12:30
 
